@@ -1,0 +1,19 @@
+{
+  "name": "destroy-verbs",
+  "version": "1.0.0",
+  "description": "Randomly generate verbs like DESTROY or OBLITERATE for text based games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KjellConnelly/destroy-verbs.git"
+  },
+  "author": "Kjell Connelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KjellConnelly/destroy-verbs/issues"
+  },
+  "homepage": "https://github.com/KjellConnelly/destroy-verbs#readme"
+}
